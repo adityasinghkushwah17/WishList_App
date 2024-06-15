@@ -11,6 +11,8 @@ Features
 
 Screenshots
 
+<img src="https://github.com/adityasinghkushwah17/WishList_App/assets/130901654/f450a154-776e-4c44-8612-0d2a95b39db5" width="200" />
+
 Usage
 •	Viewing Wishes: The main screen lists all your wishes. Swipe any wish to delete it.
 •	Adding a Wish: Tap the ‘+’ icon on the floating action button to access the add/edit screen. Fill in the wish details and save.
